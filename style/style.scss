@@ -180,7 +180,7 @@ section{
             left: 0;
             top: 0;
             z-index: -1;
-            clip-path: polygon(0 0,46% 0,79% 100%,  0 100%);
+            clip-path: polygon(0 0,76% 0,79% 100%,  0 100%);
         }
         .image{
             border-radius: var(--br-sm-2);
@@ -205,14 +205,14 @@ section{
         align-items: center;
         padding-right: 13rem;
         .name{
-            font-size: 3rem;
+            font-size: 2.3rem;
             span{
                 color: var(--color-secondary);
             }
         }
         p{
-            margin: 1.5rem 0;
-            line-height: 2;
+            margin: 1rem 0;
+            line-height: 1.8;
         }
     }
 }
